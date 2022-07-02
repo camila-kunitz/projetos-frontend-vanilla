@@ -10,7 +10,7 @@ Repositório onde se encontram links para todos os meus projetos desenvolvidos p
 - [todo-list](#todo-list)
 - [google-glass](#google-glass)
 
-<br><hr><br>
+<br>
 
 ## animais-fantasticos
 
